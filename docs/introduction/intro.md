@@ -28,3 +28,9 @@ Pour être conforme au RGPD, il est nécessaire de :
 - Obtenir un **consentement explicite** des utilisateurs pour la collecte et le traitement de leurs données.
 - Proposer des **mécanismes de gestion des droits** des utilisateurs, comme l'accès à leurs données ou leur suppression.
 - S'assurer de la **sécurisation des données** (chiffrement, pseudonymisation) pour éviter toute fuite ou accès non autorisé.
+
+#### **Consentement et conformité avec la réglementation en vigueur**
+Le consentement est un pilier fondamental du RGPD. Pour être conforme :
+- Le consentement doit être **libre, spécifique, éclairé et univoque**.
+- L'utilisateur doit pouvoir **révoquer facilement son consentement** à tout moment.
+- Les entreprises doivent **documenter le consentement** afin de prouver qu'elles sont en conformité avec la réglementation.
